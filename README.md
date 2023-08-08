@@ -1,3 +1,3 @@
-# EE229-OPPENHEIM-BOOK
+# EE229
 Autumn'23
 Instructor:Jayakrishnan Nair
